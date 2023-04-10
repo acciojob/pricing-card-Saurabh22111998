@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+img{
+	height:150px;
+}
+.pricing-card{
+	box-sizing:border-box;
+	border:none;
+	width:300px;
+	padding:20px;
+	background:lightgray;
+	
+}
+.image, .name, .price, .description, .btn{
+	text-align:center;
+}
+.btn button{
+	color:white;
+	background:tomato;
+	padding:10px;
+	border-radius:10px;
+	border:none;
+}
